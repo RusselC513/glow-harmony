@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../web/docker-vue"
+		},
+		{
+			"path": "../../docker-test"
+		},
+		{
+			"path": "../../shiny"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shiny"
+	}
+}
